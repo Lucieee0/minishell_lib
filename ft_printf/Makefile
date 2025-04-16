@@ -6,12 +6,12 @@
 #    By: lusimon <lusimon@student.42heilbronn.de    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/10 10:50:36 by lusimon           #+#    #+#              #
-#    Updated: 2024/11/29 13:33:16 by lusimon          ###   ########.fr        #
+#    Updated: 2025/04/16 21:09:35 by lusimon          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # Project name
-NAME = libftprintf.a
+NAME = ft_printf.a
 
 # Compiler
 CC = cc
